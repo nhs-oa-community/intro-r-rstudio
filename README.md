@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This is a second edition of the [Introduction to R and R Studio material](https://github.com/nhs-r-community/intro_r/tree/main) which is 
+This is a second edition of the [Introduction to R and R Studio material](https://github.com/nhs-r-community/intro-r-rstudio) which is 
 extended for data manipulation and broken into smaller chapters to offer greater
 flexibility for trainers. 
 
