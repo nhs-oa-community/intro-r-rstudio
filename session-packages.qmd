@@ -9,11 +9,11 @@ subtitle: "Session  - Packages"
 
 [Comprehensive R Archive Network](https://cran.r-project.org/web/packages/)
 
-19,291 packages (March 2023), free and structurally peer reviewed
+23,482 packages (March 2026), free and structurally peer reviewed.
 
 ### GitHub
 
-Many useful packages in development or subject to a lot of change are not on CRAN and are available through GitHub including [{NHSRtheme}](https://github.com/nhs-r-community/NHSRtheme). These won't be peer reviewed.
+Many useful packages in development or subject to a lot of change are not on CRAN and are available through GitHub including [{NHSRtheme}](https://github.com/nhs-oa-community/NHSRtheme). These won't be peer reviewed.
 
 ### ROpenSci
 

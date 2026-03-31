@@ -19,9 +19,9 @@ library(countdown)
 #| echo: false
 #| eval: true
 #| label: "load-data"
-tb_cases <- read_csv(url("https://raw.githubusercontent.com/nhs-r-community/intro_r_data/main/tb_cases.csv"))
-tb_pop <- read_csv(url("https://raw.githubusercontent.com/nhs-r-community/intro_r_data/main/tb_pop.csv"))
-tb_new_table <- read_csv(url("https://raw.githubusercontent.com/nhs-r-community/intro_r_data/main/tb_new_table.csv"))
+tb_cases <- read_csv(url("https://raw.githubusercontent.com/nhs-oa-community/intro_r_data/main/tb_cases.csv"))
+tb_pop <- read_csv(url("https://raw.githubusercontent.com/nhs-oa-community/intro_r_data/main/tb_pop.csv"))
+tb_new_table <- read_csv(url("https://raw.githubusercontent.com/nhs-oa-community/intro_r_data/main/tb_new_table.csv"))
 
 ```
 
@@ -193,4 +193,4 @@ tb_cases |>
 
 Thanks for the animated join gifs to Garrick Aden-Buie in his blog on [tidyexplain](https://www.garrickadenbuie.com/project/tidyexplain/).
 
-A static representation of the joins can be found in the [data wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) shared by Anya Ferguson in the [Intermediate to R](https://github.com/nhs-r-community/intermediate_R_training) NHS-R course.
+A static representation of the joins can be found in the [data wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) shared by Anya Ferguson in the [Intermediate to R](https://github.com/nhs-oa-community/intermediate_R_training) NHS-R course.

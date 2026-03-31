@@ -80,8 +80,8 @@ Further useful functions from packages to clean data
 ## Reasons to use R
 
 ::: incremental
--   [Community](https://nhsrcommunity.slack.com)
--   [Collaboration](https://github.com/nhs-r-community)
+-   [Community](https://nhsoacommunity.slack.com)
+-   [Collaboration](https://github.com/nhs-oa-community)
 -   [Open coding](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis)
 -   [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/)
 :::
